@@ -1,0 +1,142 @@
+{
+  "restos": [
+    {
+      "id": 1,
+      "name": "KAJAZOMA",
+      "adress": "Bastos Yaoundé Cameroun",
+      "mobile": "+237 6 78 92 18 65",
+      "email": "xxxx@gmail.com",
+      "description": "Plaisir des yeux et des papilles, ce lieu unique à Yaoundé surprend. A la fois restaurant et galerie d’art, vous êtes entouré de sculptures et de pièces africaines de toute beauté. Kajazoma propose une carte variée dans un cadre rare à Yaoundé, très prisé le soir. Une nouvelle direction a su insuffler une nouvelle ambiance entre le lounge et le chic branché. On y va autant pour prendre un verre que pour manger. Récemment, l'espace Le Loft de Kaza a été ajouté. On y accède par une porte dans le jardin, pour découvrir un nouvel espace de restauration au milieu d'expositions d'art, très aéré et lumineux, autour d'un beau jardin."
+    },
+    {
+      "id": 2,
+      "name": "CHEZ HÉLÈNE",
+      "adress": "Près du marché artisanal Rue du lycée de Tsinga Yaoundé Cameroun",
+      "mobile": "+237 6 99 51 39 47",
+      "email": "xxxx@gmail.com",
+      "description": "Dans le quartier se concentrent plusieurs petits restos sympas où l'on mange local, mais Chez Hélène, qui s'est agrandi depuis, ce sont les mets de tripes et de poulets DG qui sont servis. En accompagnement, des frites de bananes plantains sont proposées. Cette adresse sans plaque (il faut demander aux enfants du pays pour la dénicher) a ses adeptes, surtout en soirée, qui ont le choix de s'installer en salle sur des fauteuils fatigués ou dans la cour."
+    },
+    {
+      "id": 3,
+      "name": "RESTAURANT LA TERRASSE",
+      "adress": "Camp Sic Hippodrome Face à l'agence de Régulation des Télécommunications Yaoundé Cameroun",
+      "mobile": "+237 2 22 22 66 08",
+      "email": "xxxx@gmail.com",
+      "description": "Cadre simple et ombragé, très agréable, endroit à connaître car le menu du jour est tout à fait acceptable, à un prix très raisonnable. Sinon une carte variée et une ambiance calme qui justifient la visite."
+    },
+    {
+      "id": 4,
+      "name": "L'ATLANTIC",
+      "adress": "à 5 km du centre-ville, Quartier Bastos rue Joseph-Mballa-Elouden Yaoundé Cameroun",
+      "mobile": "+237 2 22 22 33 88",
+      "email": "xxxx@gmail.com",
+      "description": "Aucune description."
+    },
+    {
+      "id": 5,
+      "name": "MAISON BLANCHE 2020",
+      "adress": "Montée Mvog Ada Yaoundé Cameroun",
+      "mobile": "Pas de Numero",
+      "email": "xxxx@gmail.com",
+      "description": "La Maison Blanche est un restaurant 100% camerounais, où des femmes vous proposent de choisir votre poisson ou vos fruits de mer fraîchement venus du marché. D'ailleurs, elles interpellent les clients un peu comme des marchandes devant leur étal. La cuisson à la braise fait partie du prix et du protocole, en accompagnement, les dames suggèrent des frites plantain ou pomme de terre. Bon appétit dans cette ambiance de bout de marché."
+    },
+    {
+      "id": 6,
+      "name": "LA PIZZERIA",
+      "adress": "45, Rue Dominique Savio Primaire coté STARLAND HOTEL, Douala 00237 Cameroun Zombifié",
+      "mobile": 237243242581,
+      "email": "monthe@gmail.com",
+      "description": "Le COVID 19 est une réalité qui a affecté le monde entier et avec lequel nous sommes entrain de réapprendre à vivre. Nous devons nous battre, faire preuve de prudence avec ceux qui nous entoure et surtout nous ne devons pas oublier de continuer à vivre et avoir le sourire parce que le meilleur reste toujours à venir.\nNous à La Pizzeria, malgré le désastre économique et financier que nous avons subi, nous avons gardé tous nos employés, maintenu tous les salaires et nous veillons au respect des gestes barrières pour notre sécurité, celle de nos employés et de vous chers clients"
+    },
+    {
+      "id": 7,
+      "name": "LA PIZZERIA",
+      "adress": "45, Rue Dominique Savio Primaire coté STARLAND HOTEL, Douala 00237 Cameroun",
+      "mobile": 237243242581,
+      "email": "monthe@gmail.com",
+      "description": "Le COVID 19 est une réalité qui a affecté le monde entier et avec lequel nous sommes entrain de réapprendre à vivre. Nous devons nous battre, faire preuve de prudence avec ceux qui nous entoure et surtout nous ne devons pas oublier de continuer à vivre et avoir le sourire parce que le meilleur reste toujours à venir.\nNous à La Pizzeria, malgré le désastre économique et financier que nous avons subi, nous avons gardé tous nos employés, maintenu tous les salaires et nous veillons au respect des gestes barrières pour notre sécurité, celle de nos employés et de vous chers clients"
+    },
+    {
+      "id": 8,
+      "name": "RESTAURANT LA SALSA",
+      "adress": "Derrière la résidence de l'ambassadeur du Nigéria Rond Point Bastos Quartier Bastos   Yaoundé Cameroun",
+      "mobile": 237656077575,
+      "email": "monthe@gmail.com",
+      "description": "Une bonne ambiance règne dans ce restaurant du monde : pizza, cuisines française, camerounaise et d'autres encore... En grillade, le chef suggère une assiette de travers de porc grillé arrosée du vin de votre choix. Ne pas manquer le capitaine fumé ni la marinade de poisson cru, un régal pour les amateurs. Le tout dans un cadre très agréable : une boutique d'art africain fournit de beaux objets mais il faut marchander ! La Salsa propose également des repas enfants, des plats végans et un service de livraison."
+    },
+    {
+      "id": 9,
+      "name": "PARALLÈLE CLUB",
+      "adress": "Situé à Mballa II, entrée CRTV (la maison de la TV)   Yaoundé Cameroun",
+      "mobile": 237222206000,
+      "email": "monthe@gmail.com",
+      "description": "Certainement le meilleur poulet DG de Yaoundé et le poisson braisé n'a rien à lui envier. Le cadre est plaisant, un peu « roots », comme on aime. Au sein de cet établissement, un artiste expose des objets réalisés en noix de coco, des masques, des portes clés, des boucles d'oreille, des bracelets et des colliers. Le cabaret est attenant au restaurant, ce qui permet de manger au calme avant d'aller écouter dans un cadre rénové les standards camerounais et internationaux.\nMerci"
+    },
+    {
+      "id": 10,
+      "name": "LA PIZZERIA",
+      "adress": "Derrière la résidence de l'ambassadeur du Nigéria Rond Point Bastos Quartier Bastos   Yaoundé Cameroun",
+      "mobile": 33333333333333,
+      "email": "monthe@gmail.com",
+      "description": "efgserg"
+    },
+    {
+      "id": 11,
+      "name": "sDvDSvqer",
+      "adress": "kn kjih vmyvi",
+      "mobile": 143124,
+      "email": "monthebrice2000@gmail.com",
+      "description": "obiùoipiùppwsdcvgdddddddddddddddddddddddddddd"
+    },
+    {
+      "id": 12,
+      "name": "",
+      "adress": "",
+      "mobile": "",
+      "email": "",
+      "description": ""
+    }
+  ],
+  "users": [
+    {
+      "email": "month",
+      "password": "mmmmm",
+      "id": 1
+    },
+    {
+      "email": "month",
+      "password": "mmmmm",
+      "id": 2
+    },
+    {
+      "email": "month",
+      "password": "mmmmm",
+      "id": 3
+    },
+    {
+      "email": "month",
+      "password": "mmmmm",
+      "id": 4
+    },
+    {
+      "email": "month",
+      "password": "mmmmm",
+      "id": 5
+    },
+    {
+      "email": "month",
+      "password": "mmmmm",
+      "id": 6
+    },
+    {
+      "email": "month",
+      "password": "qsfazefaefze",
+      "id": 7
+    },
+    {
+      "email": "monthedjeumoubrice2000@gmail.com",
+      "password": "7FA>YWqaNvqz",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<section class="py-5 text-center container bg bg-info">
+  <div class="row py-lg-5">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <h1 class="font-weight-light">Add Restaurant</h1>
+    </div>
+  </div>
+</section>
+<div *ngIf="alert" class="alert alert-success alert-dismissible fade show" role="alert">
+  <strong>Success!!!</strong> Your data added successfully.
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close" (click)="closeAlert()">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<form (ngSubmit)="onSubmit()" [formGroup]="form">
+  <div class="mb-3">
+    <label for="exampleInputName" class="form-label">Name</label>
+    <input type="text" class="form-control" id="exampleInputName" formControlName="name">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputAdress" class="form-label">Adress</label>
+    <input type="text" class="form-control" id="exampleInputAdress" formControlName="adress">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail" class="form-label">Mobile</label>
+    <input type="number" class="form-control" id="exampleInputEmail" formControlName="mobile">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail" class="form-label">Email</label>
+    <input type="email" class="form-control" id="exampleInputMobile" formControlName="email">
+  </div>
+  <div class="mb-3">
+    <label for="description" class="form-label">Description</label>
+    <textarea class="form-control" id="description" rows="5" formControlName="description"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

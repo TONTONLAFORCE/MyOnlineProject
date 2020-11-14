@@ -1,0 +1,40 @@
+<section class="py-5 text-center container bg bg-info">
+  <div class="row py-lg-5">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <h1 class="font-weight-light">List Restaurant</h1>
+    </div>
+  </div>
+</section>
+<table class="table table-dark table-hover">
+  <thead>
+  <tr>
+    <th scope="id">ID</th>
+    <th scope="col">Name</th>
+    <th scope="col">Adress</th>
+    <th scope="col">Mobile</th>
+    <th scope="col">Email</th>
+    <th scope="col">Description</th>
+    <th scope="col">Update</th>
+    <th scope="col">Delete</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let item of collections">
+    <td>{{ item.id }}</td>
+    <td>{{ item.name }}</td>
+    <td>{{ item.adress}}</td>
+    <td>{{ item.mobile }}</td>
+    <td>{{ item.email }}</td>
+    <td class="text-muted">{{ item.description }}</td>
+    <td class="text-center">
+      <a [routerLink]="'/update/'+(item.id)" class="fas fa-edit pr-1"></a>
+    </td>
+    <td class="text-center">
+      <a (click)="deleteResto(item.id)" class="material-icons pl-1">delete_forever</a>
+    </td>
+
+  </tr>
+
+  </tbody>
+</table>
+

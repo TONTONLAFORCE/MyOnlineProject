@@ -1,0 +1,39 @@
+{
+  "restos": [
+    { "id": 1,
+      "name": "KAJAZOMA",
+      "adress": "Bastos Yaoundé Cameroun",
+      "mobile": "+237 6 78 92 18 65",
+      "email": "xxxx@gmail.com",
+      "description": "Plaisir des yeux et des papilles, ce lieu unique à Yaoundé surprend. A la fois restaurant et galerie d’art, vous êtes entouré de sculptures et de pièces africaines de toute beauté. Kajazoma propose une carte variée dans un cadre rare à Yaoundé, très prisé le soir. Une nouvelle direction a su insuffler une nouvelle ambiance entre le lounge et le chic branché. On y va autant pour prendre un verre que pour manger. Récemment, l'espace Le Loft de Kaza a été ajouté. On y accède par une porte dans le jardin, pour découvrir un nouvel espace de restauration au milieu d'expositions d'art, très aéré et lumineux, autour d'un beau jardin."
+    },
+    { "id": 2,
+      "name": "CHEZ HÉLÈNE",
+      "adress": "Près du marché artisanal Rue du lycée de Tsinga Yaoundé Cameroun",
+      "mobile": "+237 6 99 51 39 47",
+      "email": "xxxx@gmail.com",
+      "description": "Dans le quartier se concentrent plusieurs petits restos sympas où l'on mange local, mais Chez Hélène, qui s'est agrandi depuis, ce sont les mets de tripes et de poulets DG qui sont servis. En accompagnement, des frites de bananes plantains sont proposées. Cette adresse sans plaque (il faut demander aux enfants du pays pour la dénicher) a ses adeptes, surtout en soirée, qui ont le choix de s'installer en salle sur des fauteuils fatigués ou dans la cour."
+    },
+    { "id": 3,
+      "name": "RESTAURANT LA TERRASSE",
+      "adress": "Camp Sic Hippodrome Face à l'agence de Régulation des Télécommunications Yaoundé Cameroun",
+      "mobile": "+237 2 22 22 66 08",
+      "email": "xxxx@gmail.com",
+      "description": "Cadre simple et ombragé, très agréable, endroit à connaître car le menu du jour est tout à fait acceptable, à un prix très raisonnable. Sinon une carte variée et une ambiance calme qui justifient la visite."
+    },
+    { "id": 4,
+      "name": "L'ATLANTIC",
+      "adress": "à 5 km du centre-ville, Quartier Bastos rue Joseph-Mballa-Elouden Yaoundé Cameroun",
+      "mobile": "+237 2 22 22 33 88",
+      "email": "xxxx@gmail.com",
+      "description": "Aucune description."
+    },
+    { "id": 5,
+      "name": "MAISON BLANCHE",
+      "adress": "Montée Mvog Ada Yaoundé Cameroun",
+      "mobile": "Pas de Numero",
+      "email": "xxxx@gmail.com",
+      "description": "La Maison Blanche est un restaurant 100% camerounais, où des femmes vous proposent de choisir votre poisson ou vos fruits de mer fraîchement venus du marché. D'ailleurs, elles interpellent les clients un peu comme des marchandes devant leur étal. La cuisson à la braise fait partie du prix et du protocole, en accompagnement, les dames suggèrent des frites plantain ou pomme de terre. Bon appétit dans cette ambiance de bout de marché."
+    }
+  ]
+}
